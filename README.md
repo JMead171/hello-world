@@ -1,3 +1,2 @@
 # hello-world
-This is a repository
-Add commit put cycle once
+This was my first repository
